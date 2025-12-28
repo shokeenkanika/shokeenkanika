@@ -7,8 +7,9 @@ About me:
 - I deeply resonate with the quote “Integrity is what you do when no one is watching.” I believe in putting forth honesty in my work, because social science research impacts the lives of real people.
 
 If you are an employer, please see my coding samples here: 
-(1) https://github.com/shokeenkanika/diff-in-diff 
-(2) https://github.com/shokeenkanika/public-program-evaluation
+
+(1) https://github.com/shokeenkanika/diff-in-diff \\
+(2) https://github.com/shokeenkanika/public-program-evaluation \\
 
 <!--
 **shokeenkanika/shokeenkanika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
